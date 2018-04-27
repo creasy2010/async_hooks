@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+.idea
+lib
+temp
+logs
+*.log
+*.iml
+target
+es6
+es7
